@@ -18,7 +18,7 @@ C.  Business requirments:
 D.  Solution Steps: 
    	 -establish a reference link to data lake gen2 from fabric lakehouse using shortcut method
    	 -extract data into pyspark notebook 
-   	 -clean and transform data
+   	 -clean and transform date
    	 -write the transformed data into fabric warehouse
 
 
